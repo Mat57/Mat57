@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Matthew
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a Python Developer
 - 💪 I like to write code
 - 🎉 I love sports
 - 🥅 I love my pug
